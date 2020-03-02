@@ -1,0 +1,7 @@
+
+
+# Ignoring All the Files
+samples/*
+
+# Ignoring VSCODE Settings
+.vscode/*
